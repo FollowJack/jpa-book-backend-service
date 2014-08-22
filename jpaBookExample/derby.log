@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Aug 19 20:02:32 CEST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0147-ef6f-44c5-00000b983888 
+on database directory memory:F:\Dropbox\JavaEEWorkSpace\workspace\jpaBookExample\chapter04DB  with class loader sun.misc.Launcher$AppClassLoader@77cde100 
+Loaded from file:/C:/Users/Deniel/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Sun Microsystems Inc.
+java.runtime.version=1.6.0_23-b05
+user.dir=F:\Dropbox\JavaEEWorkSpace\workspace\jpaBookExample
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
